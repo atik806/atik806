@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atik806
+- 👋 Hi, I’m @atik806 (Atik)
 - 👀 I’m interested in Robotics and Programming 
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on robotics projects, machine learning models, and programming challenges
