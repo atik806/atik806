@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7DCFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Robotics+Enthusiast+%F0%9F%A4%96;Machine+Learning+Learner+%F0%9F%A7%A0;Code+%2B+Hardware+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7DCFFF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Robotics+Enthusiast+%F0%9F%A4%96;Machine+Learning+Learner+%F0%9F%A7%A0;Code+%2B+Hardware+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
