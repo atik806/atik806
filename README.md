@@ -53,6 +53,23 @@ fun_fact   : Gets excited every time a robot moves as programmed 🤖
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=c0caf5)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1b2e?style=for-the-badge&logo=visualstudiocode&logoColor=7dcfff)
 
+**AI-Powered IDEs & Editors**
+
+![Cursor](https://img.shields.io/badge/Cursor-1a1b2e?style=for-the-badge&logo=cursor&logoColor=bb9af7)
+![Kiro](https://img.shields.io/badge/Kiro-1a1b2e?style=for-the-badge&logo=amazonwebservices&logoColor=e0af68)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1a1b2e?style=for-the-badge&logo=anthropic&logoColor=f7768e)
+![OpenCode](https://img.shields.io/badge/OpenCode-1a1b2e?style=for-the-badge&logo=openai&logoColor=9ece6a)
+
+**Databases & Backend**
+
+![Supabase](https://img.shields.io/badge/Supabase-1a1b2e?style=for-the-badge&logo=supabase&logoColor=9ece6a)
+![Firebase](https://img.shields.io/badge/Firebase-1a1b2e?style=for-the-badge&logo=firebase&logoColor=e0af68)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b2e?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
+
+**CLI & Terminal**
+
+![CLI](https://img.shields.io/badge/CLI-1a1b2e?style=for-the-badge&logo=gnubash&logoColor=c0caf5)
+
 </div>
 
 ---
