@@ -111,22 +111,22 @@
 <tr>
 <td align="center" width="33%">
 
-### 🤖
-**Robotics Automation**
+**🤖 Robotics Automation**
+<br/>
 <sub>Designing autonomous systems & control logic</sub>
 
 </td>
 <td align="center" width="33%">
 
-### 🧠
-**Machine Learning**
+**🧠 Machine Learning**
+<br/>
 <sub>Exploring models, datasets & algorithms</sub>
 
 </td>
 <td align="center" width="33%">
 
-### 💻
-**Real-world Apps**
+**💻 Real-world Apps**
+<br/>
 <sub>Building practical full-stack solutions</sub>
 
 </td>
