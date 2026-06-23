@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=building+robots+that+actually+listen+%F0%9F%A4%96;training+models+that+occasionally+behave+%F0%9F%A7%A0;shipping+full-stack+apps+at+2am+%E2%9C%A8;Code+%2B+Hardware+%3D+Magic+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=140&lines=building+robots+that+actually+listen+%F0%9F%A4%96;training+models+that+occasionally+behave+%F0%9F%A7%A0;shipping+full-stack+apps+at+2am+%E2%9C%A8;Code+%2B+Hardware+%3D+Magic+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
