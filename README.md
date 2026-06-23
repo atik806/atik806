@@ -146,8 +146,6 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/atik806/atik806/output/github-contribution-grid-snake-dark.svg" />
-<br/>
-<sub>✨ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo to make this snake come alive!</sub>
 </div>
 
 </details>
