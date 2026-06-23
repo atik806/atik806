@@ -47,6 +47,12 @@ fun_fact   : Gets excited every time a robot moves as programmed 🤖
 ![HTML5](https://img.shields.io/badge/HTML5-1a1b2e?style=for-the-badge&logo=html5&logoColor=f7768e)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1b2e?style=for-the-badge&logo=css3&logoColor=7dcfff)
 
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-1a1b2e?style=for-the-badge&logo=react&logoColor=7dcfff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b2e?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
+![NestJS](https://img.shields.io/badge/NestJS-1a1b2e?style=for-the-badge&logo=nestjs&logoColor=f7768e)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-1a1b2e?style=for-the-badge&logo=git&logoColor=f7768e)
