@@ -20,7 +20,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/wakatime?username=atik806&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact" />
+<div align="center">
 
 ```yaml
 👨‍🚀 name        : Atik
@@ -33,7 +33,7 @@
 🛰️  currently   : Plotting world domination, one commit at a time
 ```
 
-<br clear="right"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -151,16 +151,6 @@
 </div>
 
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=atik806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
