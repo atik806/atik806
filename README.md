@@ -43,38 +43,61 @@
 
 **🐍 Languages**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7dcfff)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=bb9af7)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=9ece6a)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=e0af68)
+<table>
+<tr>
+<td align="center">![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7dcfff)</td>
+<td align="center">![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=bb9af7)</td>
+<td align="center">![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=9ece6a)</td>
+<td align="center">![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=e0af68)</td>
+</tr>
+</table>
 
 **🖥️ Frontend & Frameworks**
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=7dcfff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=f7768e)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=f7768e)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=7dcfff)
+<table>
+<tr>
+<td align="center">![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=7dcfff)</td>
+<td align="center">![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)</td>
+<td align="center">![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=f7768e)</td>
+<td align="center">![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=f7768e)</td>
+</tr>
+<tr>
+<td align="center">![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=7dcfff)</td>
+<td></td><td></td><td></td>
+</tr>
+</table>
 
 **🗄️ Database & Backend**
 
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=9ece6a)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=e0af68)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
+<table>
+<tr>
+<td align="center">![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=9ece6a)</td>
+<td align="center">![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=e0af68)</td>
+<td align="center">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7dcfff)</td>
+</tr>
+</table>
 
 **🛠️ Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f7768e)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c0caf5)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=7dcfff)
-![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=c0caf5)
+<table>
+<tr>
+<td align="center">![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f7768e)</td>
+<td align="center">![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c0caf5)</td>
+<td align="center">![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=7dcfff)</td>
+<td align="center">![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=c0caf5)</td>
+</tr>
+</table>
 
 **🧠 AI-Powered IDEs**
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=bb9af7)
-![Kiro](https://img.shields.io/badge/Kiro-000000?style=for-the-badge&logo=amazonwebservices&logoColor=e0af68)
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=f7768e)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=9ece6a)
+<table>
+<tr>
+<td align="center">![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=bb9af7)</td>
+<td align="center">![Kiro](https://img.shields.io/badge/Kiro-000000?style=for-the-badge&logo=amazonwebservices&logoColor=e0af68)</td>
+<td align="center">![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=f7768e)</td>
+<td align="center">![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=9ece6a)</td>
+</tr>
+</table>
 
 </div>
 
