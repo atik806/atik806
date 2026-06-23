@@ -22,16 +22,16 @@
 
 <div align="center">
 
-```yaml
-👨‍🚀 name        : Atik
-🏷️  handle       : @atik806
-🎓 university   : AIUB
-🤖 interests    : [Robotics, Machine Learning, Full-Stack Dev]
-🧠 learning     : Machine Learning & AI
-🚀 open_to      : Robotics Projects · ML Models · Collabs
-⚡ fun_fact     : Gets unreasonably hyped when a robot moves as programmed
-🛰️  currently   : Plotting world domination, one commit at a time
-```
+| | |
+|---|---|
+| 👨‍🚀 **name** | Atik |
+| 🏷️ **handle** | @atik806 |
+| 🎓 **university** | AIUB |
+| 🤖 **interests** | Robotics, Machine Learning, Full-Stack Dev |
+| 🧠 **learning** | Machine Learning & AI |
+| 🚀 **open_to** | Robotics Projects · ML Models · Collabs |
+| ⚡ **fun_fact** | Gets unreasonably hyped when a robot moves as programmed |
+| 🛰️ **currently** | Plotting world domination, one commit at a time |
 
 </div>
 
